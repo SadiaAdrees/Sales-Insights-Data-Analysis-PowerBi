@@ -72,7 +72,7 @@ The Sales Insights and Data Analysis project aims to extract meaningful insights
 ## Dashboard
 The dashboard provides a comprehensive view of the sales data with intuitive and interactive visualizations. Below is a placeholder for the dashboard screenshot:
 
-![Dashboard Screenshot](Sales Insights.jpg)
+![Dashboard Screenshot](https://github.com/SadiaAdrees/Sales-Insights-Data-Analysis-PowerBi/blob/main/Sales%20Insights.jpg)
 
 ---
 

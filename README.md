@@ -7,7 +7,7 @@ The Sales Insights and Data Analysis project aims to extract meaningful insights
 
 ### Importing the Database
 1. The `db_dump.sql` file contains the database structure and sample data required for the analysis.
-2. After downloading the file, it can be imported into MySQL as shown in the tutorial video.
+2. After downloading the file, it can be imported into MySQL.
 3. Once the data is imported, queries can be executed to perform various analyses.
 
 ---
